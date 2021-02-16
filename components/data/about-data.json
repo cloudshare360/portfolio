@@ -1,0 +1,22 @@
+{
+    "heading":"Who, What !",
+    "knowme":"Get to know  Me..",
+    "summary":"I am a Solution Designer, Lead Programmer ",
+    "loveto":"I love exploring new technologies!",
+    "mywork": "Some insight into my work..",
+    "techinterest":"Tech Interests",   
+    "techstack": [
+        {
+            "title":"Full Stack Development",
+            "desc" :"Developed Full Stack Application using Frontend React, Angular and backend Java, Python Technologies."
+        },
+        {
+            "title":"Data Structures & Algorithms",
+            "desc" :"Good understanding of Object-Oriented Programming Concepts and Data Structures (Java)"
+        },
+        {
+            "title":"Cloud Technologies (AWS)",
+            "desc" :"AWS, Azure Certified Cloud Practitioner, Architect to deploy and manage applications using Amazon Web Services and Azure"
+        }
+    ]
+}

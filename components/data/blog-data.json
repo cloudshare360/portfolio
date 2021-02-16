@@ -1,0 +1,14 @@
+{
+    "blogs": [
+        {
+            "title":"Serverless Design",
+            "date":"April 23, 2020",
+            "desc": "Serverless Design : Concepts"
+        },
+        {
+            "title":"System Design",
+            "date":"Feb 21, 2021",
+            "desc": "System Design : Chat App"
+        }
+]
+}
